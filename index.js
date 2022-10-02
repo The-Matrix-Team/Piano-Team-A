@@ -2,11 +2,6 @@ const audio = document.getElementById("audio");
 const ply = document.getElementById("play");
 const out = document.getElementById("out");
 
-// let tos = 2400;
-// var score = 0;
-// var round = 0;
-// var margin1 = randomMargin(),
-//   margin2;
 
 const start = document.querySelector(".start");
 const game = document.querySelector("#game");
