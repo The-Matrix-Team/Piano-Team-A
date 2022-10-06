@@ -2,7 +2,6 @@ const audio = document.getElementById("audio");
 const ply = document.getElementById("play");
 const out = document.getElementById("out");
 
-
 const start = document.querySelector(".start");
 const game = document.querySelector("#game");
 const score = document.getElementById("score");
